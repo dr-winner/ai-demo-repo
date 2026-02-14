@@ -22,7 +22,8 @@
     "react-native-safe-area-context": "^5.0.0",
     "react-native-screens": "~3.35.0",
     "react-native-web": "^0.21.0",
-    "zustand": "^5.0.0"
+    "zustand": "^5.0.0",
+    "@life-os/shared-types": "*"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
